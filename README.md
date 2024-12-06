@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--edge-poc--tirupa03.aem.page/
-- Live: https://main--edge-poc--tirupa03.aem.live/
+- Preview: https://main--edge-poc--tirupa03.hlx.page/
+- Live: https://main--edge-poc--tirupa03.hlx.live/
 
 ## Documentation
 
